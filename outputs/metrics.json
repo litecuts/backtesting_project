@@ -1,0 +1,16 @@
+{
+  "strategy": "SMA_Crossover",
+  "fast_sma": 20,
+  "slow_sma": 50,
+  "fee_bps": 5.0,
+  "initial_cash": 10000.0,
+  "total_return_pct": -51.06,
+  "CAGR_pct": -20.79,
+  "annual_volatility_pct": 13.98,
+  "sharpe_ratio": -1.54,
+  "max_drawdown_pct": -51.64,
+  "num_trades": 10,
+  "win_rate_pct": 10.0,
+  "avg_trade_return_pct": -6.73,
+  "backtest_days": 1120
+}
