@@ -4,10 +4,6 @@
 Fetch real prices from Yahoo Finance via `yfinance` and backtest an **SMA crossover** strategy.
 Falls back to **synthetic data** if download fails, so you can run it offline too.
 
-## Install
-```bash
-pip install -r requirements.txt
-```
 
 ## Run
 ```bash
